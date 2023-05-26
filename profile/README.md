@@ -1,4 +1,4 @@
-## Kooest
+![kooestbanner](https://i.imgur.com/oEDviAB.png)
 
 An organization comprised of a team of passionate developers who are dedicated to creating innovative web applications that meet the needs of our clients. With a strong focus on delivering high-quality solutions, we strive to exceed expectations and provide cutting-edge technology that drives business success.
 
@@ -20,4 +20,4 @@ To explore career opportunities at Kooest, please visit our **[website](http://k
 
 ---
 
-#### You may directly contact **[@noeyislearning](https://github.com/noeyislearning)** for mroe information
+###### You may directly contact **[@noeyislearning](https://github.com/noeyislearning)** for more information
