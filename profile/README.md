@@ -2,15 +2,17 @@
 
 An organization comprised of a team of passionate developers who are dedicated to creating innovative web applications that meet the needs of our clients. With a strong focus on delivering high-quality solutions, we strive to exceed expectations and provide cutting-edge technology that drives businesses to success.
 
-### ❓ What is Kooest?
+### ❓ About Koeest
 
-At Kooest, we specialize in developing web applications that are tailor-made for our clients. Whether it's building a dynamic e-commerce platform, a robust content management system, or a responsive mobile application, we have the expertise and experience to deliver exceptional results.
+At **[Koeest](https://github.com/teamkooest)**, we specialize in developing tailor-made web applications for our clients. Whether it's building dynamic e-commerce platforms, robust content management systems, or responsive mobile applications, our expertise and experience enable us to deliver exceptional results.
 
-Our team of developers is proficient in a wide range of programming languages, frameworks, and tools, allowing us to adapt to the unique requirements of each project. We stay up-to-date with the latest industry trends and best practices, ensuring that our solutions are built using the most efficient and modern technologies.
+Our team of developers is proficient in a wide range of programming languages, frameworks, and tools. This versatility allows us to adapt to the specific requirements of each project. We remain up-to-date with the latest industry trends and best practices, ensuring that our solutions are built using the most efficient and modern technologies available.
 
-We believe in collaboration and communication throughout the development process. We work closely with our clients to understand their goals, objectives, and target audiences, enabling us to design and develop applications that align with their vision. Our iterative approach ensures that clients are involved at every stage, providing feedback and making informed decisions along the way.
+### ✨ Our Approach
 
-### 🤝 Join us?
+We believe in fostering collaboration and maintaining open lines of communication throughout the development process. By working closely with our clients, we gain a deep understanding of their goals, objectives, and target audiences. This enables us to design and develop applications that align with their vision. Our iterative approach ensures that clients are involved at every stage, providing feedback and making informed decisions along the way.
+
+### 🤝 Join Our Team
 
 Are you a passionate developer looking for an opportunity to work on exciting and challenging projects? Kooest is always seeking talented individuals to join our team. By becoming a part of Kooest, you will have the chance to work with cutting-edge technologies, collaborate with experienced professionals, and contribute to the development of innovative web applications.
 
@@ -18,6 +20,11 @@ We value creativity, teamwork, and continuous learning. If you are driven by a d
 
 To explore career opportunities at Kooest, please visit our **[website](http://kooest.com/)** or reach out to us directly. We look forward to hearing from you and discussing how you can contribute to our mission of building innovative web applications. Let's create the future together!
 
+### 🗃 Other Pods
+<a href="https://github.com/teamkooestpods">
+  <img src="https://i.imgur.com/IMiSjC9.png" width="50" height="50"/>
+</a>
+
 ---
 
-###### You may directly contact **[@noeyislearning](https://github.com/noeyislearning)** for more information
+###### You may directly contact **[@noeyislearning](https://github.com/noeyislearning)** and **[@yajcapulong](https://github.com/yajcapulong)** for more information
