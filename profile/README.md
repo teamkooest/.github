@@ -20,11 +20,11 @@ We value creativity, teamwork, and continuous learning. If you are driven by a d
 
 To explore career opportunities at Kooest, please visit our **[website](http://kooest.com/)** or reach out to us directly. We look forward to hearing from you and discussing how you can contribute to our mission of building innovative web applications. Let's create the future together!
 
-### 🗃 Other Pods
+### 🗃 Other Hub Links
+
 <a href="https://github.com/teamkooestpods">
-  <img src="https://i.imgur.com/IMiSjC9.png" width="50" height="50"/>
+  <img src="assets/img/134848562.jpg" width="50" height="50"/>
 </a>
-
----
-
-###### You may directly contact **[@noeyislearning](https://github.com/noeyislearning)** and **[@yajcapulong](https://github.com/yajcapulong)** for more information
+<a href="https://github.com/teamkooestscholar">
+  <img src="assets/img/142738014.jpg" width="50" height="50"/>
+</a>
