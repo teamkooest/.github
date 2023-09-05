@@ -1,4 +1,4 @@
-![kooestbanner](https://i.imgur.com/hv0WCP8.png)
+![kooest_pods_banner](<assets/img/kooest_v1.png>)
 
 An organization comprised of a team of passionate developers who are dedicated to creating innovative web applications that meet the needs of our clients. With a strong focus on delivering high-quality solutions, we strive to exceed expectations and provide cutting-edge technology that drives businesses to success.
 
